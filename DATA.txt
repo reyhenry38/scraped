@@ -1,0 +1,947 @@
+[
+ {
+  "Brand": "Solaris",
+  "Brand Type": "Exclusive Brand",
+  "Model": "SOBF72",
+  "EAN #": "4712852355349",
+  "Gender": "Kids",
+  "Color": "Tortois Tortois",
+  "Price": "$19.00"
+ },
+ {
+  "Brand": "Solaris",
+  "Brand Type": "Exclusive Brand",
+  "Model": "SOCK10",
+  "EAN #": "8719154027239",
+  "Gender": "Kids",
+  "Color": "Tortois Violet",
+  "Price": "$19.00"
+ },
+ {
+  "Brand": "Solaris",
+  "Brand Type": "Exclusive Brand",
+  "Model": "SOCK03",
+  "EAN #": "8719154029356",
+  "Gender": "Kids",
+  "Color": "Violet Violet",
+  "Price": "$19.00"
+ },
+ {
+  "Brand": "Seen",
+  "Brand Type": "Exclusive Brand",
+  "Model": "SEBM37",
+  "EAN #": "8719154025815",
+  "Gender": "Men",
+  "Color": "Gold Gold",
+  "Price": "$39.00"
+ },
+ {
+  "Brand": "Seen",
+  "Brand Type": "Exclusive Brand",
+  "Model": "SEBF36",
+  "EAN #": "5027108414824",
+  "Gender": "Women",
+  "Color": "Black Black",
+  "Price": "$39.00"
+ },
+ {
+  "Brand": "Seen",
+  "Brand Type": "Exclusive Brand",
+  "Model": "SEBF36",
+  "EAN #": "5027108414831",
+  "Gender": "Women",
+  "Color": "Other Brown",
+  "Price": "$39.00"
+ },
+ {
+  "Brand": "Seen",
+  "Brand Type": "Exclusive Brand",
+  "Model": "SEAM56",
+  "EAN #": "4894503008214",
+  "Gender": "Men",
+  "Color": "Black Black",
+  "Price": "$39.00"
+ },
+ {
+  "Brand": "Seen",
+  "Brand Type": "Exclusive Brand",
+  "Model": "SEAM42",
+  "EAN #": "4894503008337",
+  "Gender": "Men",
+  "Color": "Black Black",
+  "Price": "$39.00"
+ },
+ {
+  "Brand": "Seen",
+  "Brand Type": "Exclusive Brand",
+  "Model": "SEAM44",
+  "EAN #": "4894503008405",
+  "Gender": "Men",
+  "Color": "Grey Grey",
+  "Price": "$39.00"
+ },
+ {
+  "Brand": "Seen",
+  "Brand Type": "Exclusive Brand",
+  "Model": "SEBM16",
+  "EAN #": "4894503013690",
+  "Gender": "Men",
+  "Color": "Black Black",
+  "Price": "$39.00"
+ },
+ {
+  "Brand": "Seen",
+  "Brand Type": "Exclusive Brand",
+  "Model": "SEAF00",
+  "EAN #": "5027108412301",
+  "Gender": "Women",
+  "Color": "Black Black",
+  "Price": "$39.00"
+ },
+ {
+  "Brand": "Seen",
+  "Brand Type": "Exclusive Brand",
+  "Model": "SEAF00",
+  "EAN #": "5027108412318",
+  "Gender": "Women",
+  "Color": "Tortois Tortois",
+  "Price": "$39.00"
+ },
+ {
+  "Brand": "Seen",
+  "Brand Type": "Exclusive Brand",
+  "Model": "SEBM37",
+  "EAN #": "3663079005887",
+  "Gender": "Men",
+  "Color": "Silver Silver",
+  "Price": "$39.00"
+ },
+ {
+  "Brand": "Seen",
+  "Brand Type": "Exclusive Brand",
+  "Model": "SEAF03",
+  "EAN #": "4712852350719",
+  "Gender": "Women",
+  "Color": "Black Black",
+  "Price": "$39.00"
+ },
+ {
+  "Brand": "Seen",
+  "Brand Type": "Exclusive Brand",
+  "Model": "SEAF03",
+  "EAN #": "4712852350726",
+  "Gender": "Women",
+  "Color": "Tortois Tortois",
+  "Price": "$39.00"
+ },
+ {
+  "Brand": "Seen",
+  "Brand Type": "Exclusive Brand",
+  "Model": "SEAF06",
+  "EAN #": "4712852350733",
+  "Gender": "Women",
+  "Color": "Black Black",
+  "Price": "$39.00"
+ },
+ {
+  "Brand": "Seen",
+  "Brand Type": "Exclusive Brand",
+  "Model": "SEAF10",
+  "EAN #": "4712852350900",
+  "Gender": "Women",
+  "Color": "Tortois Tortois",
+  "Price": "$39.00"
+ },
+ {
+  "Brand": "Seen",
+  "Brand Type": "Exclusive Brand",
+  "Model": "SEEN 022",
+  "EAN #": "3360622015811",
+  "Gender": "Men",
+  "Color": "Black Black",
+  "Price": "$39.00"
+ },
+ {
+  "Brand": "Seen",
+  "Brand Type": "Exclusive Brand",
+  "Model": "SEEN 024",
+  "EAN #": "3360622015828",
+  "Gender": "Men",
+  "Color": "Yellow Tortois",
+  "Price": "$39.00"
+ },
+ {
+  "Brand": "Seen",
+  "Brand Type": "Exclusive Brand",
+  "Model": "SEEN 100",
+  "EAN #": "3663079001315",
+  "Gender": "Women",
+  "Color": "Yellow Tortois",
+  "Price": "$39.00"
+ },
+ {
+  "Brand": "Seen",
+  "Brand Type": "Exclusive Brand",
+  "Model": "SEEN 102",
+  "EAN #": "3663079001353",
+  "Gender": "Women",
+  "Color": "Brown Brown",
+  "Price": "$39.00"
+ },
+ {
+  "Brand": "Seen",
+  "Brand Type": "Exclusive Brand",
+  "Model": "SEEN 102",
+  "EAN #": "3663079001360",
+  "Gender": "Women",
+  "Color": "Black Black",
+  "Price": "$39.00"
+ },
+ {
+  "Brand": "Solaris",
+  "Brand Type": "Exclusive Brand",
+  "Model": "SCL 078",
+  "EAN #": "3663079004835",
+  "Gender": "Women",
+  "Color": "Black Black",
+  "Price": "$49.00"
+ },
+ {
+  "Brand": "Solaris",
+  "Brand Type": "Exclusive Brand",
+  "Model": "SOAM43",
+  "EAN #": "3663079005412",
+  "Gender": "Men",
+  "Color": "Black Black",
+  "Price": "$49.00"
+ },
+ {
+  "Brand": "Solaris",
+  "Brand Type": "Exclusive Brand",
+  "Model": "SOAM87",
+  "EAN #": "3663079005740",
+  "Gender": "Men",
+  "Color": "Black Black",
+  "Price": "$49.00"
+ },
+ {
+  "Brand": "Solaris",
+  "Brand Type": "Exclusive Brand",
+  "Model": "SCL 075",
+  "EAN #": "3663079000332",
+  "Gender": "Women",
+  "Color": "Brown Tortois",
+  "Price": "$49.00"
+ },
+ {
+  "Brand": "Solaris",
+  "Brand Type": "Exclusive Brand",
+  "Model": "SCL 075",
+  "EAN #": "3663079000349",
+  "Gender": "Women",
+  "Color": "Black Black",
+  "Price": "$49.00"
+ },
+ {
+  "Brand": "Solaris",
+  "Brand Type": "Exclusive Brand",
+  "Model": "SSP 003",
+  "EAN #": "3360622006581",
+  "Gender": "Men",
+  "Color": "Black Black",
+  "Price": "$49.00"
+ },
+ {
+  "Brand": "Solaris",
+  "Brand Type": "Exclusive Brand",
+  "Model": "SCL 002",
+  "EAN #": "3360622010007",
+  "Gender": "Men",
+  "Color": "Black Grey",
+  "Price": "$49.00"
+ },
+ {
+  "Brand": "Solaris",
+  "Brand Type": "Exclusive Brand",
+  "Model": "SCL 002",
+  "EAN #": "3360622010014",
+  "Gender": "Men",
+  "Color": "Brown Gold",
+  "Price": "$49.00"
+ },
+ {
+  "Brand": "Solaris",
+  "Brand Type": "Exclusive Brand",
+  "Model": "SCL 007",
+  "EAN #": "3360622014951",
+  "Gender": "Men",
+  "Color": "Grey Grey",
+  "Price": "$49.00"
+ },
+ {
+  "Brand": "Solaris",
+  "Brand Type": "Exclusive Brand",
+  "Model": "SCL 029",
+  "EAN #": "3360622015002",
+  "Gender": "Women",
+  "Color": "Grey Grey",
+  "Price": "$49.00"
+ },
+ {
+  "Brand": "Solaris",
+  "Brand Type": "Exclusive Brand",
+  "Model": "SCL 028",
+  "EAN #": "3360622015033",
+  "Gender": "Women",
+  "Color": "Grey Grey",
+  "Price": "$49.00"
+ },
+ {
+  "Brand": "Solaris",
+  "Brand Type": "Exclusive Brand",
+  "Model": "SCL 028",
+  "EAN #": "3360622015040",
+  "Gender": "Women",
+  "Color": "Gold Gold",
+  "Price": "$49.00"
+ },
+ {
+  "Brand": "Solaris",
+  "Brand Type": "Exclusive Brand",
+  "Model": "SOAF51",
+  "EAN #": "4712852351877",
+  "Gender": "Women",
+  "Color": "Blue Blue",
+  "Price": "$49.00"
+ },
+ {
+  "Brand": "Solaris",
+  "Brand Type": "Exclusive Brand",
+  "Model": "SOAM18",
+  "EAN #": "6921103602103",
+  "Gender": "Men",
+  "Color": "Black Black",
+  "Price": "$49.00"
+ },
+ {
+  "Brand": "Solaris",
+  "Brand Type": "Exclusive Brand",
+  "Model": "SCL 023",
+  "EAN #": "3360622010274",
+  "Gender": "Women",
+  "Color": "Red Red",
+  "Price": "$49.00"
+ },
+ {
+  "Brand": "Solaris",
+  "Brand Type": "Exclusive Brand",
+  "Model": "SSP 006",
+  "EAN #": "8719154029158",
+  "Gender": "Men",
+  "Color": "Black White",
+  "Price": "$49.00"
+ },
+ {
+  "Brand": "Solaris",
+  "Brand Type": "Exclusive Brand",
+  "Model": "SODF26",
+  "EAN #": "8719154107276",
+  "Gender": "Women",
+  "Color": "Black Black",
+  "Price": "$49.00"
+ },
+ {
+  "Brand": "Solaris",
+  "Brand Type": "Exclusive Brand",
+  "Model": "SOEF04",
+  "EAN #": "8719154221019",
+  "Gender": "Women",
+  "Color": "Black Gold",
+  "Price": "$49.00"
+ },
+ {
+  "Brand": "Solaris",
+  "Brand Type": "Exclusive Brand",
+  "Model": "SOCM13",
+  "EAN #": "8719154029783",
+  "Gender": "Men",
+  "Color": "Black Black",
+  "Price": "$49.00"
+ },
+ {
+  "Brand": "Solaris",
+  "Brand Type": "Exclusive Brand",
+  "Model": "SOCF33",
+  "EAN #": "8719154031588",
+  "Gender": "Women",
+  "Color": "Brown Brown",
+  "Price": "$49.00"
+ },
+ {
+  "Brand": "Solaris",
+  "Brand Type": "Exclusive Brand",
+  "Model": "SOCF33",
+  "EAN #": "8719154031601",
+  "Gender": "Women",
+  "Color": "Black Black",
+  "Price": "$49.00"
+ },
+ {
+  "Brand": "Solaris",
+  "Brand Type": "Exclusive Brand",
+  "Model": "SOEF09",
+  "EAN #": "8719154100888",
+  "Gender": "Women",
+  "Color": "Black Gold",
+  "Price": "$49.00"
+ },
+ {
+  "Brand": "Solaris",
+  "Brand Type": "Exclusive Brand",
+  "Model": "SODM22",
+  "EAN #": "8719154107146",
+  "Gender": "Men",
+  "Color": "Black Black",
+  "Price": "$49.00"
+ },
+ {
+  "Brand": "Solaris",
+  "Brand Type": "Exclusive Brand",
+  "Model": "SODF11",
+  "EAN #": "8719154107610",
+  "Gender": "Women",
+  "Color": "Black Black",
+  "Price": "$49.00"
+ },
+ {
+  "Brand": "Solaris",
+  "Brand Type": "Exclusive Brand",
+  "Model": "SOEM23",
+  "EAN #": "8719154107658",
+  "Gender": "Men",
+  "Color": "Blue Blue",
+  "Price": "$49.00"
+ },
+ {
+  "Brand": "Solaris",
+  "Brand Type": "Exclusive Brand",
+  "Model": "SODM48",
+  "EAN #": "8719154113987",
+  "Gender": "Men",
+  "Color": "Black Black",
+  "Price": "$49.00"
+ },
+ {
+  "Brand": "Polaroid",
+  "Brand Type": "Non Exclusive Brand",
+  "Model": "8018/S",
+  "EAN #": "827886534791",
+  "Gender": "Kids",
+  "Color": "Black Black",
+  "Price": "$59.00"
+ },
+ {
+  "Brand": "Solaris",
+  "Brand Type": "Exclusive Brand",
+  "Model": "SPO 024",
+  "EAN #": "3360622012230",
+  "Gender": "Women",
+  "Color": "Tortois Tortois",
+  "Price": "$69.00"
+ },
+ {
+  "Brand": "Solaris",
+  "Brand Type": "Exclusive Brand",
+  "Model": "SOAF65",
+  "EAN #": "4712852352485",
+  "Gender": "Women",
+  "Color": "Gold Gold",
+  "Price": "$69.00"
+ },
+ {
+  "Brand": "Solaris",
+  "Brand Type": "Exclusive Brand",
+  "Model": "SOAF65",
+  "EAN #": "4712852352492",
+  "Gender": "Women",
+  "Color": "Silver Silver",
+  "Price": "$69.00"
+ },
+ {
+  "Brand": "Solaris",
+  "Brand Type": "Exclusive Brand",
+  "Model": "SOAM73",
+  "EAN #": "4712852353437",
+  "Gender": "Men",
+  "Color": "Blue Blue",
+  "Price": "$69.00"
+ },
+ {
+  "Brand": "Solaris",
+  "Brand Type": "Exclusive Brand",
+  "Model": "SOAM51",
+  "EAN #": "5027108412349",
+  "Gender": "Men",
+  "Color": "Black Black",
+  "Price": "$69.00"
+ },
+ {
+  "Brand": "Solaris",
+  "Brand Type": "Exclusive Brand",
+  "Model": "SPO 009",
+  "EAN #": "3360622010083",
+  "Gender": "Men",
+  "Color": "Black Black",
+  "Price": "$69.00"
+ },
+ {
+  "Brand": "Solaris",
+  "Brand Type": "Exclusive Brand",
+  "Model": "SODM27",
+  "EAN #": "8719154114526",
+  "Gender": "Men",
+  "Color": "Black Black",
+  "Price": "$69.00"
+ },
+ {
+  "Brand": "Solaris",
+  "Brand Type": "Exclusive Brand",
+  "Model": "SODM02",
+  "EAN #": "8719154108334",
+  "Gender": "Men",
+  "Color": "Black Gold",
+  "Price": "$69.00"
+ },
+ {
+  "Brand": "Solaris",
+  "Brand Type": "Exclusive Brand",
+  "Model": "SODM03",
+  "EAN #": "8719154108358",
+  "Gender": "Men",
+  "Color": "Black Black",
+  "Price": "$69.00"
+ },
+ {
+  "Brand": "Solaris",
+  "Brand Type": "Exclusive Brand",
+  "Model": "SODM47",
+  "EAN #": "8719154113932",
+  "Gender": "Men",
+  "Color": "Tortois Blue",
+  "Price": "$69.00"
+ },
+ {
+  "Brand": "Solaris",
+  "Brand Type": "Exclusive Brand",
+  "Model": "SODM23",
+  "EAN #": "8719154107153",
+  "Gender": "Men",
+  "Color": "Brown Brown",
+  "Price": "$69.00"
+ },
+ {
+  "Brand": "Solaris",
+  "Brand Type": "Exclusive Brand",
+  "Model": "SODM23",
+  "EAN #": "8719154107160",
+  "Gender": "Men",
+  "Color": "Black Black",
+  "Price": "$69.00"
+ },
+ {
+  "Brand": "Solaris",
+  "Brand Type": "Exclusive Brand",
+  "Model": "SODM07",
+  "EAN #": "8719154107450",
+  "Gender": "Men",
+  "Color": "Other Blue",
+  "Price": "$69.00"
+ },
+ {
+  "Brand": "Polaroid",
+  "Brand Type": "Non Exclusive Brand",
+  "Model": "5015/S",
+  "EAN #": "762753295590",
+  "Gender": "Women",
+  "Color": "Brown Tortois",
+  "Price": "$79.00"
+ },
+ {
+  "Brand": "Polaroid",
+  "Brand Type": "Non Exclusive Brand",
+  "Model": "PLD6013/S",
+  "EAN #": "762753572042",
+  "Gender": "Unisex",
+  "Color": "Black Black",
+  "Price": "$79.00"
+ },
+ {
+  "Brand": "Polaroid",
+  "Brand Type": "Non Exclusive Brand",
+  "Model": "PLD 1023/S",
+  "EAN #": "762753598028",
+  "Gender": "Men",
+  "Color": "Brown Brown",
+  "Price": "$79.00"
+ },
+ {
+  "Brand": "Polaroid",
+  "Brand Type": "Non Exclusive Brand",
+  "Model": "6031/S",
+  "EAN #": "762753731425",
+  "Gender": "Unisex",
+  "Color": "Black Black",
+  "Price": "$79.00"
+ },
+ {
+  "Brand": "Polaroid",
+  "Brand Type": "Non Exclusive Brand",
+  "Model": "PLD2017/S",
+  "EAN #": "762753887658",
+  "Gender": "Men",
+  "Color": "Silver Silver",
+  "Price": "$79.00"
+ },
+ {
+  "Brand": "Ray Ban",
+  "Brand Type": "Non Exclusive Brand",
+  "Model": "9052S",
+  "EAN #": "8053672481327",
+  "Gender": "Kids",
+  "Color": "Black Black",
+  "Price": "$89.00"
+ },
+ {
+  "Brand": "Ray Ban",
+  "Brand Type": "Non Exclusive Brand",
+  "Model": "9052S",
+  "EAN #": "8053672481365",
+  "Gender": "Kids",
+  "Color": "Brown Brown",
+  "Price": "$89.00"
+ },
+ {
+  "Brand": "Nike",
+  "Brand Type": "Non Exclusive Brand",
+  "Model": "Trainer EV0934",
+  "EAN #": "884802623601",
+  "Gender": "Men",
+  "Color": "Grey Black",
+  "Price": "$99.00"
+ },
+ {
+  "Brand": "Heritage",
+  "Brand Type": "Exclusive Brand",
+  "Model": "HSFF00",
+  "EAN #": "8719154170904",
+  "Gender": "Women",
+  "Color": "Black Black",
+  "Price": "$99.00"
+ },
+ {
+  "Brand": "Heritage",
+  "Brand Type": "Exclusive Brand",
+  "Model": "HSFM00",
+  "EAN #": "8719154171352",
+  "Gender": "Men",
+  "Color": "Tortois Brown",
+  "Price": "$99.00"
+ },
+ {
+  "Brand": "Heritage",
+  "Brand Type": "Exclusive Brand",
+  "Model": "HSFM00",
+  "EAN #": "8719154171369",
+  "Gender": "Men",
+  "Color": "Grey Brown",
+  "Price": "$99.00"
+ },
+ {
+  "Brand": "Heritage",
+  "Brand Type": "Exclusive Brand",
+  "Model": "HSEM15",
+  "EAN #": "8719154208379",
+  "Gender": "Men",
+  "Color": "Tortois Red",
+  "Price": "$99.00"
+ },
+ {
+  "Brand": "Heritage",
+  "Brand Type": "Exclusive Brand",
+  "Model": "HSEF38",
+  "EAN #": "8719154208706",
+  "Gender": "Women",
+  "Color": "Transparant Blue",
+  "Price": "$99.00"
+ },
+ {
+  "Brand": "Nike",
+  "Brand Type": "Non Exclusive Brand",
+  "Model": "ADRE EV0605",
+  "EAN #": "883212542731",
+  "Gender": "Men",
+  "Color": "Silver Silver",
+  "Price": "$109.00"
+ },
+ {
+  "Brand": "Nike",
+  "Brand Type": "Non Exclusive Brand",
+  "Model": "ADRE EV0605",
+  "EAN #": "884498892138",
+  "Gender": "Men",
+  "Color": "Black Silver",
+  "Price": "$109.00"
+ },
+ {
+  "Brand": "Michael Kors",
+  "Brand Type": "Non Exclusive Brand",
+  "Model": "0MK2045",
+  "EAN #": "725125976497",
+  "Gender": "Women",
+  "Color": "Black Black",
+  "Price": "$119.00"
+ },
+ {
+  "Brand": "Michael Kors",
+  "Brand Type": "Non Exclusive Brand",
+  "Model": "0MK2045",
+  "EAN #": "725125976503",
+  "Gender": "Women",
+  "Color": "Green Green",
+  "Price": "$119.00"
+ },
+ {
+  "Brand": "Nike",
+  "Brand Type": "Non Exclusive Brand",
+  "Model": "Essential Venture R",
+  "EAN #": "884499505686",
+  "Gender": "Unisex",
+  "Color": "Navy Blue Navy Blue",
+  "Price": "$129.00"
+ },
+ {
+  "Brand": "Nike",
+  "Brand Type": "Non Exclusive Brand",
+  "Model": "RABI EV0795",
+  "EAN #": "887229400183",
+  "Gender": "Men",
+  "Color": "Black Violet",
+  "Price": "$129.00"
+ },
+ {
+  "Brand": "Michael Kors",
+  "Brand Type": "Non Exclusive Brand",
+  "Model": "0MK2056",
+  "EAN #": "725125981859",
+  "Gender": "Women",
+  "Color": "Black Black",
+  "Price": "$149.00"
+ },
+ {
+  "Brand": "Michael Kors",
+  "Brand Type": "Non Exclusive Brand",
+  "Model": "0MK1024",
+  "EAN #": "725125984690",
+  "Gender": "Women",
+  "Color": "Pink Gold",
+  "Price": "$149.00"
+ },
+ {
+  "Brand": "Ray Ban",
+  "Brand Type": "Non Exclusive Brand",
+  "Model": "RB4187",
+  "EAN #": "713132581131",
+  "Gender": "Men",
+  "Color": "Brown Brown",
+  "Price": "$149.00"
+ },
+ {
+  "Brand": "Michael Kors",
+  "Brand Type": "Non Exclusive Brand",
+  "Model": "MK6029",
+  "EAN #": "725125949798",
+  "Gender": "Women",
+  "Color": "Tortois Gold",
+  "Price": "$149.00"
+ },
+ {
+  "Brand": "Ray Ban",
+  "Brand Type": "Non Exclusive Brand",
+  "Model": "0RB2132",
+  "EAN #": "805289048527",
+  "Gender": "Unisex",
+  "Color": "Black Black",
+  "Price": "$149.00"
+ },
+ {
+  "Brand": "Ray Ban",
+  "Brand Type": "Non Exclusive Brand",
+  "Model": "0RB2132",
+  "EAN #": "805289048534",
+  "Gender": "Unisex",
+  "Color": "Brown Brown",
+  "Price": "$149.00"
+ },
+ {
+  "Brand": "Michael Kors",
+  "Brand Type": "Non Exclusive Brand",
+  "Model": "2024",
+  "EAN #": "725125963336",
+  "Gender": "Women",
+  "Color": "Black Gold",
+  "Price": "$149.00"
+ },
+ {
+  "Brand": "Ray Ban",
+  "Brand Type": "Non Exclusive Brand",
+  "Model": "0RB4165",
+  "EAN #": "805289526575",
+  "Gender": "Men",
+  "Color": "Black Black",
+  "Price": "$149.00"
+ },
+ {
+  "Brand": "Ray Ban",
+  "Brand Type": "Non Exclusive Brand",
+  "Model": "0RB3025",
+  "EAN #": "805289628231",
+  "Gender": "Unisex",
+  "Color": "Black Black",
+  "Price": "$159.00"
+ },
+ {
+  "Brand": "Ray Ban",
+  "Brand Type": "Non Exclusive Brand",
+  "Model": "0RB4101",
+  "EAN #": "805289162438",
+  "Gender": "Unisex",
+  "Color": "Brown Brown",
+  "Price": "$159.00"
+ },
+ {
+  "Brand": "Ray Ban",
+  "Brand Type": "Non Exclusive Brand",
+  "Model": "0RB2180",
+  "EAN #": "8053672358612",
+  "Gender": "Men",
+  "Color": "Brown Brown",
+  "Price": "$159.00"
+ },
+ {
+  "Brand": "Ray Ban",
+  "Brand Type": "Non Exclusive Brand",
+  "Model": "3539",
+  "EAN #": "8053672685114",
+  "Gender": "Unisex",
+  "Color": "Blue Blue",
+  "Price": "$169.00"
+ },
+ {
+  "Brand": "Ray Ban",
+  "Brand Type": "Non Exclusive Brand",
+  "Model": "0RB3561",
+  "EAN #": "8053672730333",
+  "Gender": "Men",
+  "Color": "Gold Gold",
+  "Price": "$169.00"
+ },
+ {
+  "Brand": "Michael Kors",
+  "Brand Type": "Non Exclusive Brand",
+  "Model": "6040",
+  "EAN #": "725125953528",
+  "Gender": "Women",
+  "Color": "Black White",
+  "Price": "$169.00"
+ },
+ {
+  "Brand": "Revo",
+  "Brand Type": "Non Exclusive Brand",
+  "Model": "Revo 4059S",
+  "EAN #": "796764597428",
+  "Gender": "Unisex",
+  "Color": "Black Black",
+  "Price": "$189.00"
+ },
+ {
+  "Brand": "Ray Ban",
+  "Brand Type": "Non Exclusive Brand",
+  "Model": "2447N",
+  "EAN #": "8053672684476",
+  "Gender": "Men",
+  "Color": "Transparant Grey",
+  "Price": "$199.00"
+ },
+ {
+  "Brand": "Ray Ban",
+  "Brand Type": "Non Exclusive Brand",
+  "Model": "0RB3025",
+  "EAN #": "8053672000481",
+  "Gender": "Men",
+  "Color": "Gold Gold",
+  "Price": "$199.00"
+ },
+ {
+  "Brand": "Oakley",
+  "Brand Type": "Non Exclusive Brand",
+  "Model": "0OO4123",
+  "EAN #": "888392269751",
+  "Gender": "Men",
+  "Color": "Black Black",
+  "Price": "$199.00"
+ },
+ {
+  "Brand": "Ray Ban",
+  "Brand Type": "Non Exclusive Brand",
+  "Model": "4273",
+  "EAN #": "8053672677027",
+  "Gender": "Unisex",
+  "Color": "Black Black",
+  "Price": "$209.00"
+ },
+ {
+  "Brand": "Ray Ban",
+  "Brand Type": "Non Exclusive Brand",
+  "Model": "0RB3025",
+  "EAN #": "805289114567",
+  "Gender": "Unisex",
+  "Color": "Gold Gold",
+  "Price": "$219.00"
+ },
+ {
+  "Brand": "Ray Ban",
+  "Brand Type": "Non Exclusive Brand",
+  "Model": "4264",
+  "EAN #": "8053672644951",
+  "Gender": "Men",
+  "Color": "Black Black",
+  "Price": "$229.00"
+ },
+ {
+  "Brand": "Oakley",
+  "Brand Type": "Non Exclusive Brand",
+  "Model": "0OO4124",
+  "EAN #": "888392271334",
+  "Gender": "Men",
+  "Color": "Black Black",
+  "Price": "$239.00"
+ },
+ {
+  "Brand": "Gucci",
+  "Brand Type": "Non Exclusive Brand",
+  "Model": "GG0035S",
+  "EAN #": "8056376049107",
+  "Gender": "Women",
+  "Color": "Black Green",
+  "Price": "$359.00"
+ },
+ {
+  "Brand": "Gucci",
+  "Brand Type": "Non Exclusive Brand",
+  "Model": "GG0124S",
+  "EAN #": "8056376077223",
+  "Gender": "Men",
+  "Color": "Brown Brown",
+  "Price": "$379.00"
+ }
+]
