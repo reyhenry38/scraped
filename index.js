@@ -27,7 +27,7 @@ axios.all(requestForIDsPromises)
     return allSunglassesIDs
   })
   .then(function (idArray) {
-    // STEP 3
+    // Iteration on all the data on modal
     for (var i = 0; i < idArray.length; i++) {
       requestForFramesDetailsPromises.push(axios.post('https://www.foreyes.com/_framesdetails', {
         ProductSku: idArray[i]
