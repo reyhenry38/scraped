@@ -3,11 +3,11 @@ const fs = require('fs');
 const jsdom = require("jsdom");
 const { JSDOM } = jsdom;
 
-var allSunglassesIDs = [];
-var allSunglassesData = [];
-var requestForIDsPromises = [];
-var requestForFramesDetailsPromises = [];
-var sunglassesDATA = [];
+let allSunglassesIDs = [];
+let allSunglassesData = [];
+let requestForIDsPromises = [];
+let requestForFramesDetailsPromises = [];
+let sunglassesDATA = [];
 
 
 // Web request of all the sunglass data
